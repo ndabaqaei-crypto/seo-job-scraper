@@ -37,11 +37,20 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "Graphic Designer remote",
+"Junior Graphic Designer remote",
+"Motion Designer remote",
+"Motion Graphics Designer remote",
+"Video Editor remote",
+"Content Creator remote",
+"Creative Designer remote",
+"Social Media Designer remote",
+"Multimedia Designer remote",
+"Remote Content Creator",
+"Remote Motion Designer",
+"Adobe Premiere Pro remote",
+"After Effects Designer remote",
+"Graphic Design remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
